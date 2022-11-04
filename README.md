@@ -1,5 +1,4 @@
 # CS1027: Computer Science Fundamentals II
- Course work from CS1027: Computer Science Fundamentals II (2021)
 
 Data organization and manipulation; abstract data types and their implementations in a modern programming language; lists, stacks, queues, trees; recursion; file handling and storage; searching and sorting. This course focuses on the Object-Oriented Programming paradigm and the Java language.
 
